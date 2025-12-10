@@ -1,2 +1,2 @@
 # git_example_eesnimi_2
-Harjutame Giti kasutamist
+Harjutame Giti kasutamist.
